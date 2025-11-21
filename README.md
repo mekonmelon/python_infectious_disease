@@ -1,1 +1,1 @@
-# python_-infectious_disease
+# python_infectious_disease
